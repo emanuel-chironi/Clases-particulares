@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="719"
+   height="607"
+   viewBox="0 0 719 607"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg4268"
+   sodipodi:docname="hero-science-vector.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview4270"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.66227348"
+     inkscape:cx="380.50746"
+     inkscape:cy="150.24005"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4268" />
+  <title
+     id="title">Ilustración científica con átomo, senoide, ejes y cono</title>
+  <desc
+     id="desc">Composición vectorial en azul con un átomo, una onda senoidal, un sistema de ejes tridimensionales y un cono geométrico.</desc>
+  <defs
+     id="defs4142">
+    <linearGradient
+       id="nucleus"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#3f78ff"
+         id="stop4112" />
+      <stop
+         offset="52%"
+         stop-color="#0b3ca8"
+         id="stop4114" />
+      <stop
+         offset="100%"
+         stop-color="#061c57"
+         id="stop4116" />
+    </linearGradient>
+    <radialGradient
+       id="electronOrange"
+       cx="38%"
+       cy="35%"
+       r="70%">
+      <stop
+         offset="0%"
+         stop-color="#fff47a"
+         id="stop4119" />
+      <stop
+         offset="40%"
+         stop-color="#ffc928"
+         id="stop4121" />
+      <stop
+         offset="100%"
+         stop-color="#f28a00"
+         id="stop4123" />
+    </radialGradient>
+    <radialGradient
+       id="softGlow"
+       cx="50%"
+       cy="35%"
+       r="75%">
+      <stop
+         offset="0%"
+         stop-color="#eaf3ff"
+         stop-opacity="0.95"
+         id="stop4126" />
+      <stop
+         offset="100%"
+         stop-color="#dcecff"
+         stop-opacity="0"
+         id="stop4128" />
+    </radialGradient>
+    <linearGradient
+       id="bottomArc"
+       x1="283"
+       y1="397"
+       x2="729"
+       y2="843"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-10)">
+      <stop
+         offset="0%"
+         stop-color="#e8f3ff"
+         stop-opacity="0.7"
+         id="stop4131" />
+      <stop
+         offset="100%"
+         stop-color="#d8e8fb"
+         stop-opacity="0.2"
+         id="stop4133" />
+    </linearGradient>
+    <pattern
+       id="dotGrid"
+       width="20"
+       height="20"
+       patternUnits="userSpaceOnUse">
+      <circle
+         cx="2"
+         cy="2"
+         r="1.8"
+         fill="#d7e6fa"
+         id="circle4136" />
+    </pattern>
+    <filter
+       id="softShadow"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feDropShadow
+         dx="0"
+         dy="2"
+         stdDeviation="2.2"
+         flood-color="#0c357c"
+         flood-opacity="0.22" />
+    </filter>
+    <style
+       id="style4140">
+      .main { fill: none; stroke: #0e46d9; stroke-width: 1.45; stroke-linecap: round; stroke-linejoin: round; }
+      .main-thick { fill: none; stroke: #0e46d9; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+      .guide { fill: none; stroke: #7ea8f0; stroke-width: 1.15; stroke-dasharray: 8 6; opacity: 0.62; }
+      .guide-light { fill: none; stroke: #a8c6f1; stroke-width: 1; stroke-dasharray: 5 6; opacity: 0.48; }
+      .axis-label { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: 600; fill: #0b2f88; }
+      .small-label { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 500; fill: #0b2f88; }
+      .point { fill: #073b9c; stroke: #07256a; stroke-width: .8; }
+    </style>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#electronOrange"
+       id="radialGradient4321"
+       cx="59.392"
+       cy="-112.01"
+       r="9.3799996"
+       fx="59.392"
+       fy="-112.01"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-60.586758,0.98009948)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#electronOrange"
+       id="radialGradient4323"
+       cx="-95.608"
+       cy="80.99"
+       r="9.3799996"
+       fx="-95.608"
+       fy="80.99"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.3774876,-16.609453)" />
+    <radialGradient
+       id="electronOrange-7"
+       cx="-95.608002"
+       cy="80.989998"
+       r="9.3799992"
+       fx="-95.608002"
+       fy="80.989998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1010589,0,0,4.0401738,549.32915,-176.78965)">
+      <stop
+         offset="0"
+         stop-color="#fff47a"
+         id="stop4334-5"
+         style="stop-color:#7098e0;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#ffc928"
+         id="stop4336-1"
+         style="stop-color:#010e33;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#f28a00"
+         id="stop4338-3"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#electronOrange-1"
+       id="radialGradient4323-8"
+       cx="-95.608002"
+       cy="80.989998"
+       r="9.3799992"
+       fx="-95.608002"
+       fy="80.989998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(191.97637,-19.547264)" />
+    <radialGradient
+       id="electronOrange-1"
+       cx="0.38"
+       cy="0.34999999"
+       r="0.69999999">
+      <stop
+         offset="0%"
+         stop-color="#fff47a"
+         id="stop4119-7" />
+      <stop
+         offset="40%"
+         stop-color="#ffc928"
+         id="stop4121-5" />
+      <stop
+         offset="100%"
+         stop-color="#f28a00"
+         id="stop4123-2" />
+    </radialGradient>
+  </defs>
+  <g
+     id="g4218"
+     transform="matrix(1,-0.00890406,0,1,-1.0676961,4.5054558)">
+    <path
+       class="guide"
+       d="m 372,225 c 30.92615,-61.22212 68.98996,-71.29768 107,0 39.11283,71.52013 38.64664,77.31057 91.04839,-0.16875 25.00773,-34.7933 45.74466,-30.21846 61.94389,0.6313"
+       id="path4210"
+       sodipodi:nodetypes="cccc"
+       style="stroke:#2e2f2e;stroke-opacity:1" />
+    <path
+       class="main-thick"
+       d="m 374,223.01781 c 33,-74 71,-82 106,0 36,85 49.30953,89.37784 87.30953,-2.62216 16,-35 41.94195,-32.98229 58.94195,5.01771"
+       id="path4212"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <!-- background -->
+  <circle
+     cx="496"
+     cy="620"
+     r="223"
+     fill="url(#bottomArc)"
+     id="circle4146"
+     style="fill:url(#bottomArc)" />
+  <rect
+     x="520"
+     y="15"
+     width="180"
+     height="545"
+     fill="url(#dotGrid)"
+     opacity="0.72"
+     id="rect4148" />
+  <circle
+     cx="192.1015"
+     cy="358.42935"
+     r="4"
+     fill="#d5e5fb"
+     id="circle4150" />
+  <circle
+     cx="558"
+     cy="438"
+     r="3.2"
+     fill="#d5e5fb"
+     id="circle4152" />
+  <!-- atom -->
+  <g
+     transform="translate(164 157)"
+     id="g4170">
+    <ellipse
+       class="main"
+       rx="137"
+       ry="52"
+       transform="rotate(18)"
+       id="ellipse4154"
+       style="stroke:#000000;stroke-opacity:1" />
+    <ellipse
+       class="main"
+       rx="137"
+       ry="52"
+       transform="rotate(72)"
+       id="ellipse4156"
+       style="stroke:#000006;stroke-opacity:1" />
+    <ellipse
+       class="main"
+       rx="137"
+       ry="52"
+       transform="rotate(132)"
+       id="ellipse4158"
+       style="stroke:#000000;stroke-opacity:1" />
+    <circle
+       cx="0"
+       cy="0"
+       r="22"
+       fill="url(#nucleus)"
+       filter="url(#softShadow)"
+       id="circle4160" />
+    <circle
+       cx="-98.377487"
+       cy="66.390549"
+       r="6.1999998"
+       fill="url(#electronOrange)"
+       stroke="#e18e00"
+       stroke-width="1"
+       id="circle4164"
+       style="fill:url(#radialGradient4323)" />
+    <circle
+       cx="97.976364"
+       cy="63.452736"
+       r="6.1999998"
+       fill="url(#electronOrange)"
+       stroke="#e18e00"
+       stroke-width="1"
+       id="circle4164-1"
+       style="fill:url(#radialGradient4323-8)" />
+    <circle
+       cx="0.41324595"
+       cy="-109.01991"
+       r="6.1999998"
+       fill="url(#electronOrange)"
+       stroke="#e18e00"
+       stroke-width="1"
+       id="circle4166"
+       style="fill:url(#radialGradient4321)" />
+  </g>
+  <ellipse
+     cx="163.82962"
+     cy="158.54478"
+     fill="url(#electronOrange)"
+     stroke="#e18e00"
+     stroke-width="4.0705"
+     id="circle4379-6"
+     style="fill:url(#electronOrange-7);stroke:#392b36;stroke-opacity:1;stroke-width:1.77;stroke-dasharray:none"
+     rx="25.426565"
+     ry="25.049076" />
+  <!-- 3D axes -->
+  <g
+     id="g4208">
+    <!-- guides -->
+    <line
+       class="guide"
+       x1="373.06769"
+       y1="165.29459"
+       x2="425.71378"
+       y2="165.29459"
+       id="line4172" />
+    <line
+       class="guide"
+       x1="373.04245"
+       y1="287.91522"
+       x2="522.84888"
+       y2="287.91522"
+       id="line4172-8"
+       style="opacity:0.62;fill:none;stroke:#7ea8f0;stroke-width:1.15;stroke-dasharray:7.99997, 6;stroke-dashoffset:0" />
+    <line
+       class="guide"
+       x1="426.146"
+       y1="163.72998"
+       x2="425.87549"
+       y2="223.30986"
+       id="line4172-9"
+       style="opacity:0.62;fill:none;stroke:#7ea8f0;stroke-width:1.15;stroke-dasharray:7.99997843,5.999987;stroke-dashoffset:0" />
+    <line
+       class="guide"
+       x1="522.23853"
+       y1="226.72365"
+       x2="521.9682"
+       y2="288.4397"
+       id="line4172-9-0"
+       style="opacity:0.62;fill:none;stroke:#7ea8f0;stroke-width:1.15;stroke-dasharray:8.00000066,6.00000383;stroke-dashoffset:0" />
+    <line
+       class="guide-light"
+       x1="373.66925"
+       y1="334.25534"
+       x2="512.66925"
+       y2="334.25534"
+       id="line4180"
+       style="stroke-width:1.15;stroke-dasharray:7.99997483,5.99999838;stroke-dashoffset:0" />
+    <!-- axes -->
+    <line
+       class="main-thick"
+       x1="372"
+       y1="225"
+       x2="640"
+       y2="225"
+       id="line4182"
+       style="stroke:#000000;stroke-opacity:1" />
+    <polygon
+       points="629,219 629,231 640,225 "
+       fill="#0e46d9"
+       id="polygon4184"
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(4)" />
+    <line
+       class="main-thick"
+       x1="372"
+       y1="225"
+       x2="372"
+       y2="61"
+       id="line4186"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+    <polygon
+       points="372,61 366,72 378,72"
+       fill="#0e46d9"
+       id="polygon4188"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+    <line
+       class="main-thick"
+       x1="372.01331"
+       y1="224.98669"
+       x2="260.62161"
+       y2="304.74542"
+       id="line4190"
+       style="stroke:#000000;stroke-opacity:1" />
+    <polygon
+       points="259,306 264,294 272,304"
+       fill="#0e46d9"
+       id="polygon4192"
+       style="fill:#000001;fill-opacity:1" />
+    <line
+       class="main-thick"
+       x1="372"
+       y1="224.55013"
+       x2="372"
+       y2="332.07874"
+       id="line4194"
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+    <line
+       class="main-thick"
+       x1="372.0921"
+       y1="335.07092"
+       x2="372.0921"
+       y2="431.53488"
+       id="line4194-0"
+       style="fill:#737373;fill-opacity:1;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.19999981,7.19999981;stroke-opacity:1;stroke-dashoffset:0" />
+    <polygon
+       points="378,429 372,440 366,429 "
+       fill="#0e46d9"
+       id="polygon4196"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       transform="translate(-0.04718595,0.9619092)" />
+    <circle
+       class="point"
+       cx="372"
+       cy="225"
+       r="3.4"
+       id="circle4198" />
+    <circle
+       class="point"
+       cx="372"
+       cy="334"
+       r="3.4"
+       id="circle4200" />
+    <text
+       class="axis-label"
+       x="655"
+       y="231"
+       id="text4202">y</text>
+    <text
+       class="axis-label"
+       x="369"
+       y="51"
+       id="text4204">z</text>
+    <text
+       class="axis-label"
+       x="244"
+       y="332"
+       id="text4206">x</text>
+  </g>
+  <g
+     opacity="0.52"
+     id="g4262-6"
+     style="opacity:1;fill:#000004;fill-opacity:1;stroke:#000001;stroke-opacity:1"
+     transform="translate(96.288994,122.53159)">
+    <circle
+       cx="425.67282"
+       cy="165.62885"
+       r="2.4000001"
+       fill="#0e46d9"
+       id="circle4260-0"
+       style="fill:#000004;fill-opacity:1;stroke:#000001;stroke-opacity:1" />
+  </g>
+  <!-- sine wave -->
+  <!-- auxiliary vector -->
+  <g
+     id="g4224">
+    <line
+       class="guide"
+       x1="371.6156"
+       y1="334.85263"
+       x2="285.02798"
+       y2="404.94247"
+       id="line4220" />
+  </g>
+  <!-- cone -->
+  <g
+     id="g4254">
+    <ellipse
+       class="main"
+       cx="107"
+       cy="485"
+       rx="85"
+       ry="31"
+       id="ellipse4226" />
+    <path
+       class="main-thick"
+       d="M22 485 L107 277 L192 485"
+       id="path4228" />
+    <line
+       class="guide"
+       x1="107"
+       y1="277"
+       x2="107"
+       y2="485"
+       id="line4230"
+       style="stroke:#2f2f2f;stroke-opacity:1" />
+    <line
+       class="main"
+       x1="107"
+       y1="485"
+       x2="192"
+       y2="485"
+       id="line4232"
+       style="stroke:#000000;stroke-opacity:1" />
+    <line
+       class="main"
+       x1="192"
+       y1="485"
+       x2="192"
+       y2="359"
+       id="line4234"
+       style="stroke:#000018;stroke-opacity:1" />
+    <line
+       class="guide-light"
+       x1="192"
+       y1="359"
+       x2="210"
+       y2="359"
+       id="line4236" />
+    <line
+       class="guide-light"
+       x1="192"
+       y1="485"
+       x2="210"
+       y2="485"
+       id="line4238" />
+    <path
+       class="guide-light"
+       d="M40 505 L58 521 L91 519"
+       id="path4240" />
+    <path
+       class="guide-light"
+       d="M125 516 L159 541 L202 521"
+       id="path4242" />
+    <circle
+       class="point"
+       cx="107"
+       cy="277"
+       r="2.7"
+       id="circle4244" />
+    <circle
+       class="point"
+       cx="107"
+       cy="485"
+       r="2.7"
+       id="circle4246" />
+    <circle
+       class="point"
+       cx="192"
+       cy="359"
+       r="2.7"
+       id="circle4248" />
+    <text
+       class="small-label"
+       x="198"
+       y="426"
+       id="text4250">h</text>
+    <text
+       class="small-label"
+       x="147"
+       y="508"
+       id="text4252">r</text>
+  </g>
+  <!-- left-top auxiliary pale geometry -->
+  <g
+     opacity="0.52"
+     id="g4262"
+     style="opacity:1;fill:#000004;fill-opacity:1;stroke:#000001;stroke-opacity:1"
+     transform="translate(0.56623134,-0.18874378)">
+    <circle
+       cx="425.67282"
+       cy="165.62885"
+       r="2.4000001"
+       fill="#0e46d9"
+       id="circle4260"
+       style="fill:#000004;fill-opacity:1;stroke:#000001;stroke-opacity:1" />
+  </g>
+  <!-- decorative triangle -->
+  <g
+     opacity="0.6"
+     id="g4266">
+    <path
+       class="guide-light"
+       d="M402 493 L434 493 L418 520 Z"
+       id="path4264" />
+  </g>
+  <metadata
+     id="metadata16011">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Ilustración científica con átomo, senoide, ejes y cono</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
